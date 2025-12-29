@@ -3,39 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91A0D16D-C510-4557-B844-F0B073365B4D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\dataaccesslayer\\migrations\\20251030115543_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66462B70-E0EC-4BB7-BB47-EF07DA4C5687}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\businesslayer\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A93764-B172-4747-9F22-9A35B45F2572}|..\\PresentationLayer\\PresentationLayer.csproj|c:\\users\\saketh macha\\source\\repos\\presentationlayer\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A0D16D-C510-4557-B844-F0B073365B4D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\dataaccesslayer\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A0D16D-C510-4557-B844-F0B073365B4D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\dataaccesslayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A0D16D-C510-4557-B844-F0B073365B4D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10FA7EF6-34E1-439C-BA23-2D2BFEBDEF39}|ApplicationUser.csproj|c:\\users\\saketh macha\\source\\repos\\applicationuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10FA7EF6-34E1-439C-BA23-2D2BFEBDEF39}|ApplicationUser.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66462B70-E0EC-4BB7-BB47-EF07DA4C5687}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\businesslayer\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8290977A-3A10-E938-A6C3-79A80E751005}|..\\PresentationLayer\\PresentationLayer.csproj|c:\\users\\saketh macha\\source\\repos\\presentationlayer\\userinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91A0D16D-C510-4557-B844-F0B073365B4D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\dataaccesslayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66462B70-E0EC-4BB7-BB47-EF07DA4C5687}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\businesslayer\\passwordchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66462B70-E0EC-4BB7-BB47-EF07DA4C5687}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\businesslayer\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66462B70-E0EC-4BB7-BB47-EF07DA4C5687}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\businesslayer\\passwordchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66462B70-E0EC-4BB7-BB47-EF07DA4C5687}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\businesslayer\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91A0D16D-C510-4557-B844-F0B073365B4D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\dataaccesslayer\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91A0D16D-C510-4557-B844-F0B073365B4D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\dataaccesslayer\\migrations\\20251030115543_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91A0D16D-C510-4557-B844-F0B073365B4D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10FA7EF6-34E1-439C-BA23-2D2BFEBDEF39}|ApplicationUser.csproj|c:\\users\\saketh macha\\source\\repos\\applicationuser\\applicationuser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10FA7EF6-34E1-439C-BA23-2D2BFEBDEF39}|ApplicationUser.csproj|solutionrelative:applicationuser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10FA7EF6-34E1-439C-BA23-2D2BFEBDEF39}|ApplicationUser.csproj|c:\\users\\saketh macha\\source\\repos\\applicationuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{10FA7EF6-34E1-439C-BA23-2D2BFEBDEF39}|ApplicationUser.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66462B70-E0EC-4BB7-BB47-EF07DA4C5687}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\saketh macha\\source\\repos\\businesslayer\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,64 +61,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251030115543_init.cs",
-              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\Migrations\\20251030115543_init.cs",
-              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Migrations\\20251030115543_init.cs",
-              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\Migrations\\20251030115543_init.cs",
-              "RelativeToolTip": "..\\DataAccessLayer\\Migrations\\20251030115543_init.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\PresentationLayer\\InputManager.cs",
+              "RelativeDocumentMoniker": "..\\PresentationLayer\\InputManager.cs",
+              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\PresentationLayer\\InputManager.cs",
+              "RelativeToolTip": "..\\PresentationLayer\\InputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T06:34:19.933Z",
+              "WhenOpened": "2025-11-07T06:50:47.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\UserLogin.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\UserLogin.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\UserLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T05:34:30.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-31T04:50:11.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\DataAccessLayer\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeToolTip": "..\\DataAccessLayer\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T04:32:53.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\DataAccessLayer\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\UserRepository.cs",
               "RelativeToolTip": "..\\DataAccessLayer\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T04:27:23.027Z"
+              "WhenOpened": "2025-10-31T04:27:23.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,70 +93,124 @@
               "RelativeDocumentMoniker": "..\\BusinessLayer\\PasswordChange.cs",
               "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\PasswordChange.cs",
               "RelativeToolTip": "..\\BusinessLayer\\PasswordChange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T04:27:04.241Z"
+              "WhenOpened": "2025-10-31T04:27:04.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PasswordEncryption.cs",
-              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\PasswordEncryption.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer\\PasswordEncryption.cs",
-              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\PasswordEncryption.cs",
-              "RelativeToolTip": "..\\BusinessLayer\\PasswordEncryption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T04:26:44.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\User.cs",
               "RelativeDocumentMoniker": "..\\DataAccessLayer\\User.cs",
               "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\User.cs",
               "RelativeToolTip": "..\\DataAccessLayer\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T11:08:49.591Z"
+              "WhenOpened": "2025-10-30T11:08:49.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserInputManager.cs",
-              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\PresentationLayer\\UserInputManager.cs",
-              "RelativeDocumentMoniker": "..\\PresentationLayer\\UserInputManager.cs",
-              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\PresentationLayer\\UserInputManager.cs",
-              "RelativeToolTip": "..\\PresentationLayer\\UserInputManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T11:06:12.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserRegister.cs",
               "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\UserRegister.cs",
               "RelativeDocumentMoniker": "..\\BusinessLayer\\UserRegister.cs",
               "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\UserRegister.cs",
               "RelativeToolTip": "..\\BusinessLayer\\UserRegister.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T09:20:44.631Z"
+              "WhenOpened": "2025-10-30T09:20:44.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T09:02:33.571Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251030115543_init.cs",
+              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\Migrations\\20251030115543_init.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Migrations\\20251030115543_init.cs",
+              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\Migrations\\20251030115543_init.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Migrations\\20251030115543_init.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:34:19.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\UserLogin.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\UserLogin.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T05:34:30.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\PasswordEncryption.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\PasswordEncryption.cs",
+              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\BusinessLayer\\PasswordEncryption.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\PasswordEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:26:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:32:53.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.csproj",
+              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\ApplicationUser.csproj",
+              "RelativeDocumentMoniker": "ApplicationUser.csproj",
+              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\ApplicationUser.csproj",
+              "RelativeToolTip": "ApplicationUser.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T08:52:56.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Saketh Macha\\source\\repos\\ApplicationUser\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T04:50:11.973Z"
             }
           ]
         }

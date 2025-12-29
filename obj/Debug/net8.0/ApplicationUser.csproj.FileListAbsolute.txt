@@ -163,3 +163,4 @@ C:\Users\Saketh Macha\source\repos\ApplicationUser\bin\Debug\net8.0\Microsoft.Ex
 C:\Users\Saketh Macha\source\repos\ApplicationUser\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\Saketh Macha\source\repos\ApplicationUser\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\Saketh Macha\source\repos\ApplicationUser\bin\Debug\net8.0\appsettings.json
+C:\Users\Saketh Macha\source\repos\ApplicationUser\obj\Debug\net8.0\ApplicationUser.sourcelink.json

@@ -6,7 +6,10 @@ namespace ApplicationUser
     {
         static void Main(string[] args)
         {
-            UserInputManager inputs = new UserInputManager();
+            InputManager inputs = new InputManager();
+            inputs.InputReader();
+            Console.WriteLine();
+            InputManager inputs2 = new InputManager();
             inputs.InputReader();
         }
     }
